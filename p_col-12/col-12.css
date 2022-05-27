@@ -51,6 +51,7 @@ body {
     background-color: #eee; 
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 16px;
+   /*  box-sizing: border-box; */
 }
 
 /*Estilos Plantilla*/
@@ -73,7 +74,7 @@ body {
 .row div:first-child > .box {
     /*El primer div dentro de row que es antecedente de un .box  
     Elimina un margen de más*/
-    margin-left: 0px;
+    margin-left: 0;
 }
 
 
