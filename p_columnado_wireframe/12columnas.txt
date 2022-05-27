@@ -1,1 +1,4 @@
-Esta carpeta es una plantilla/ framework que tiene como objetivo
+Esta carpeta es una plantilla/ framework CSS basada en 12 columnas, orientada a una facil disposición o desarrollo del responsive design con media Queries. Estilo tipo grilla sin tener que pensar medidas.
+La suma total por fila sera 12 ocupandose en función de las columnas indicadas. Cada grupo de columnas se ubicando de un blque row.
+
+https://www.youtube.com/watch?v=1kNwZbRiVcQ&list=TLPQMjcwNTIwMjIDrMYg22tReg&index=2&ab_channel=Bluuweb
