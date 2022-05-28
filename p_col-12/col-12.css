@@ -45,7 +45,6 @@ table {
 
 
 /*Estillos preliminares*/
-
 body {
     padding: 15px; 
     background-color: #eee; 
@@ -55,7 +54,6 @@ body {
 }
 
 /*Estilos Plantilla*/
-
 .grid-container {
     width: 100%; /*Diseño fluido*/
 }
@@ -78,9 +76,9 @@ body {
 }
 
 
-
+/*Estilos que permiten ver los colores y las casillas posicionadas donde corresponde.*/
 .resaltador .row {
-    background-color: #ffc2c2; 
+    background-color: #ffc2c2; /*Este color es el que causa que las divisiones sean de color*/
     text-align: center;
 }
 
@@ -93,73 +91,27 @@ body {
     min-height: 1px; /*porque si no ponemos texto no se va a ver este espacio.*/
 }
 
-/*Estilos columnas*/
-.col-12 {
-    width: 100%;
-}
-
-.col-11 {
-    width: 91,66666666666667%;
-}
-
-.col-10 {
-    width: 83,33333333333333%;
-}
-
-.col-9 {
-    width: 75%;
-}
-
-.col-8 {
-    width: 66,66666666666667%;
-}
-
-.col-7 {
-    width: 58,33333333333333%;
-}
-
-.col-6 {
-    width: 50%;
-}
-
-.col-5 {
-    width: 41,66666666666667%;
-}
-
-.col-4 {
-    width: 33,33333333333333%;
-}
-
-.col-3 {
-    width: 25%;
-}
-
-.col-2 {
-    width: 16,66666666666667%;
-}
+/*Anchos columnas, Se debe marcar el decimal con un punto.*/
+.col-12 {width: 100%;}
+.col-11 {width: 91.66666666666667%;}
+.col-10 {width: 83.33333333333333%;}
+.col-9 {width: 75%;}
+.col-8 {width: 66.66666666666667%;}
+.col-7 {width: 58.33333333333333%;}
+.col-6 {width: 50%;}
+.col-5 {width: 41.66666666666667%;}
+.col-4 {width: 33.33333333333333%;}
+.col-3 {width: 25%;}
+.col-2 {width: 16.6666666666666%;}
+.col-1 {width: 8.33333333333333%;}
 
 
-.col-1 {
-    width: 8,33333333333333%;
-}
-
-
-
-
-
-
-
-
-
-
-/*MediaQueriespara hacerla responsiva*/
-
-/* @media screen (max-width:800px){
-    
+/*  MediaQueriespara hacerla responsiva.
+    La acotación despues de @media SCREEN causa un error que descarta el mediaqueries.*/
+@media (max-width:800px) {
     .row {
         margin: 0;
     }
-    
 
     .row .box {
         margin-left: 0;
@@ -170,7 +122,7 @@ body {
         display: block;
         width: 100%;
     }
-} */
+} 
 
 /*Helpers*/
 .img-responsive {
