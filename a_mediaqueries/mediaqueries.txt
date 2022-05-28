@@ -1,0 +1,1 @@
+Actividad de un material de CSS para ejemplificar funcionamiento básico de las mediaqueries.
