@@ -106,9 +106,8 @@ body {
 .col-1 {width: 8.33333333333333%;}
 
 
-/*  MediaQueriespara hacerla responsiva.
-    La acotación despues de @media SCREEN causa un error que descarta el mediaqueries.*/
-@media (max-width:800px) {
+/*  MediaQueriespara hacerla responsiva.*/
+@media screen and (max-width:800px) {
     .row {
         margin: 0;
     }
