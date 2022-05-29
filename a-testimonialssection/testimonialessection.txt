@@ -1,0 +1,4 @@
+Ejercicio de la plataforma Front End Mentor
+Es un apartado donde figuren testimonios u opinines con diferentes anchos y alturas en forma de grid
+
+Los archivos miopcion son como lo resolvería sin usar boostrap.
