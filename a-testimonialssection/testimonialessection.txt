@@ -2,3 +2,7 @@ Ejercicio de la plataforma Front End Mentor
 Es un apartado donde figuren testimonios u opinines con diferentes anchos y alturas en forma de grid
 
 Los archivos miopcion son como lo resolvería sin usar boostrap.
+
+Me quede en el minuto 50. 
+https://www.youtube.com/watch?v=1kNwZbRiVcQ&ab_channel=Bluuweb
+https://bluuweb.github.io/bootstrap-5/01-fundamentos/#herramientas 
