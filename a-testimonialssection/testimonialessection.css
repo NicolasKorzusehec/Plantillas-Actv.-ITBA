@@ -1,5 +1,4 @@
 /*Paleta de colores a usar*/
-
 .paletacolores {
     background-color: hsl(263, 55%, 52%); /*Moderate violet*/
     background-color: hsl(217, 19%, 35%); /*Very dark grayish blue*/
@@ -10,6 +9,7 @@
     color: hsl(217, 19%, 35%); /*Very dark grayish blue*/
     color: hsl(219, 29%, 14%);  /*Very dark blackish blue*/
 }
+
 .post1 {
     background-color: hsl(263, 55%, 52%); /*Moderate violet*/
    
