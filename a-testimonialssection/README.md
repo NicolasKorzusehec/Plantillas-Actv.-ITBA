@@ -82,8 +82,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Curso de boostrap](https://www.youtube.com/watch?v=1kNwZbRiVcQ&ab_channel=Bluuweb) - Material Audiovisual que analiza y complementa el material de lectura para encarar la resoluci[on de este ejercicio] y ense;ar el uso de boostrap.
-- [Repositorio](https://bluuweb.github.io/bootstrap-5/01-fundamentos/#herramientas) - Material de lectura que ense;a el uso de boostrap de forma practica mediante este ejercicio
+- [Curso de boostrap](https://www.youtube.com/watch?v=1kNwZbRiVcQ&ab_channel=Bluuweb) - Material Audiovisual que analiza y complementa el material de lectura para encarar la resolución de este ejercicio y enseñar el uso de boostrap.
+- [Repositorio](https://bluuweb.github.io/bootstrap-5/01-fundamentos/#herramientas) - Material de lectura que enseña el uso de boostrap de forma practica mediante este ejercicio.
 
 
 ## Author
