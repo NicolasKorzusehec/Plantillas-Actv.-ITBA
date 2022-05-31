@@ -1,0 +1,15 @@
+{
+  "name": "a-testimonialssection",
+  "version": "1.0.0",
+  "description": "Ejercicio de la plataforma Front End Mentor Es un apartado donde figuren testimonios u opinines con diferentes anchos y alturas en forma de grid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+  }
+}
