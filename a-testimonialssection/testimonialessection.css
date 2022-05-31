@@ -9,7 +9,7 @@
 }
 
 .post1 {
-    background-color: hsl(263, 55%, 52%); /*Moderate violet*/
+    background: hsl(263, 55%, 52%) url(../a-testimonialssection/img/bg-pattern-quotation.svg) no-repeat 85% top;
     color: hsl(0, 0%, 81%); /*Light gray*/}
 .post2 {
     background-color: hsl(217, 19%, 35%); /*Very dark grayish blue*/
@@ -39,6 +39,14 @@
 .post3 img {border: 2px solid hsl(0, 0%, 81%);}
 .post4 img {border: 2px solid hsl(263, 55%, 52%);}
 .post5 img {border: 2px solid hsl(0, 0%, 81%);}
+
+.d-flex img {
+    width: 50px;
+}
+
+[class*=post] {
+    box-shadow: 1px 1px 10px black;
+}
 
 /* 
 [class*=post] p {
