@@ -12,7 +12,6 @@
 
 .post1 {
     background-color: hsl(263, 55%, 52%); /*Moderate violet*/
-   
     /*Temporal*/
     color: hsl(210, 46%, 95%); /*Light grayish blue*/ 
 }
@@ -32,13 +31,17 @@
     background-color: hsl(219, 29%, 14%); /*Very dark blackish blue*/
 
     /*Temporal*/
-    color: hsl(210, 46%, 95%); /*Light grayish blue*/
+    color: hsl(210, 46%, 95%);  /*Light grayish blue*/
 }
 
 .post5 {
     background-color: hsl(0, 0%, 100%); /*White*/
 }
 
+[class*=post] img {
+    border-radius: 50%;
+    border: 2px solid red;
+} 
 
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
