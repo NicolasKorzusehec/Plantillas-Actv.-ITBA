@@ -57,3 +57,6 @@ function todosLosNombres( arreglo){
 todosLosNombres(nombres); */
 
 
+var dato = prompt('Ingrese un dato: ');
+
+console.log(dato);
