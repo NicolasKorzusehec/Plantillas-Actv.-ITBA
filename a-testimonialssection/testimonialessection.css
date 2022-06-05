@@ -32,8 +32,7 @@
 .post1 h6:first-child, .post2 h6:first-child, .post3 h6:first-child, .post4 h6:first-child, .post5 h6:first-child {opacity: 100%;}
 .post1 h6, .post2 h6, .post3 h6, .post4 h6, .post4 h6 {opacity: 70%;}
 
-[class*=post] img {
-    border-radius: 50%;} 
+[class*=post] img {border-radius: 50%;} 
 .post1 img {border: 2px solid hsl(0, 0%, 81%);}
 .post2 img {border: 2px solid hsl(0, 0%, 81%);}
 .post3 img {border: 2px solid hsl(0, 0%, 81%);}
@@ -44,9 +43,7 @@
     width: 50px;
 }
 
-[class*=post] {
-    box-shadow: 1px 1px 10px black;
-}
+[class*=post] {box-shadow: 1px 1px 10px black;}
 
 /* 
 [class*=post] p {
