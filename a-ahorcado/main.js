@@ -10,5 +10,6 @@ function jugar(letra){
         document.getElementById('mensaje').innerHTML = 'La letra ' + 'letra + no esta en la palabra.'
     } else {
         
-    }
-}
+    };
+};
+
